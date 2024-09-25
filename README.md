@@ -45,8 +45,10 @@ ___Our mobile application enables users to effortlessly organize their wardrobe 
 
 As a user, I want to see what kind of clothing I am lacking in (pants, shirts, dress shoes, etc.) so that I can balance out my wardrobe more.
 
+![pic1](us1.png)
 As a student, I want to be able to create and plan different outfits for school, career, and social events, so that I can be best prepared for a variety of occasions.
 
+![pic2](us2.png)
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+
