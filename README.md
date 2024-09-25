@@ -50,5 +50,6 @@ As a student, I want to be able to create and plan different outfits for school,
 
 ![pic2](us2.png)
 ## Clickable Prototype
+https://www.figma.com/proto/2A4Vo0LpCREBYDH9cSh1P3/Wardrobe-App?node-id=0-1&t=DP2LnCF9lCT7usxm-1
 
 
